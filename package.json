@@ -1,0 +1,17 @@
+{
+	"name": "grpc-practice",
+	"version": "1.0.0",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"client": "node client.js"
+	},
+	"dependencies": {
+		"@grpc/grpc-js": "^1.6.7",
+		"@grpc/proto-loader": "^0.6.6"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
